@@ -147,6 +147,29 @@ void RadixSort(int a[], int n){
     }
 }
 
+
+int parshit(vector<int>& a, int first, int last) {
+    int pivot = a[first];
+    int lastS1 = first;
+    int firstUnknown = first + 1;
+    while (firstUnknown <= last) {
+        if (a[firstUnknown] < pivot) {
+            lastS1++;
+            swap(a[firstUnknown], a[lastS1]);
+        }
+        firstUnknown++;
+    }
+    swap(a[first], a[lastS1]);
+    return lastS1;
+}
+
+void shitsort(vector<int>& a, int first, int last) {
+    if (first >= last) return;
+    int pivotIndex = partition(a, first, last);
+    quickSort(a, first, pivotIndex - 1);
+    quickSort(a, pivotIndex + 1, last);
+}
+
 int main(){
     int n=5;
     int a[5] ={1,5,4,9,3};
