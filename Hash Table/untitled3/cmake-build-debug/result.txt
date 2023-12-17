@@ -1,0 +1,3286 @@
+[constructor] - khoi tao thanh cong
++ m = 1000
++ output file = result.txt
+[insert ] – thanh cong
++ key = 561
++ hash value = 717
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 726
++ hash value = 692
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 348
++ hash value = 75
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 915
++ hash value = 501
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 6
++ hash value = 708
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 594
++ hash value = 112
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 872
++ hash value = 925
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 515
++ hash value = 287
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 959
++ hash value = 694
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 975
++ hash value = 583
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 169
++ hash value = 447
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 661
++ hash value = 520
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 316
++ hash value = 298
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 528
++ hash value = 321
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 701
++ hash value = 241
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 788
++ hash value = 10
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 255
++ hash value = 598
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 74
++ hash value = 734
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 574
++ hash value = 751
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 329
++ hash value = 333
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 338
++ hash value = 895
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 583
++ hash value = 313
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 238
++ hash value = 92
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 30
++ hash value = 541
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 172
++ hash value = 301
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 928
++ hash value = 535
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 966
++ hash value = 20
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 19
++ hash value = 742
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 653
++ hash value = 576
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 779
++ hash value = 448
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 477
++ hash value = 802
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 336
++ hash value = 659
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 66
++ hash value = 790
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 342
++ hash value = 367
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 13
++ hash value = 34
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 414
++ hash value = 866
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 841
++ hash value = 766
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 907
++ hash value = 556
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 282
++ hash value = 285
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 651
++ hash value = 340
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 920
++ hash value = 591
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 570
++ hash value = 279
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 848
++ hash value = 92
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 7
++ hash value = 326
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 560
++ hash value = 99
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 286
++ hash value = 757
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 889
++ hash value = 432
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 729
++ hash value = 546
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 1
++ hash value = 618
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 702
++ hash value = 859
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 262
++ hash value = 924
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 452
++ hash value = 351
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 337
++ hash value = 277
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 223
++ hash value = 821
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 934
++ hash value = 243
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 478
++ hash value = 420
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 717
++ hash value = 130
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 978
++ hash value = 437
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 885
++ hash value = 960
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 767
++ hash value = 32
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 671
++ hash value = 700
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 166
++ hash value = 593
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 605
++ hash value = 910
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 497
++ hash value = 162
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 646
++ hash value = 249
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 768
++ hash value = 650
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 664
++ hash value = 374
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 826
++ hash value = 496
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 851
++ hash value = 946
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 144
++ hash value = 996
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 533
++ hash value = 412
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 2
++ hash value = 236
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 306
++ hash value = 118
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 493
++ hash value = 690
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 328
++ hash value = 715
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 97
++ hash value = 949
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 413
++ hash value = 248
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 692
++ hash value = 679
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 562
++ hash value = 335
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 625
++ hash value = 271
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 696
++ hash value = 151
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 754
++ hash value = 997
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 576
++ hash value = 987
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 461
++ hash value = 913
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 319
++ hash value = 152
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 777
++ hash value = 212
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 994
++ hash value = 325
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 751
++ hash value = 143
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 582
++ hash value = 695
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 976
++ hash value = 201
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 397
++ hash value = 359
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 177
++ hash value = 392
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 409
++ hash value = 775
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 449
++ hash value = 497
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 142
++ hash value = 760
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 835
++ hash value = 58
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 633
++ hash value = 215
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 355
++ hash value = 402
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 399
++ hash value = 595
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 153
++ hash value = 559
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 791
++ hash value = 864
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 492
++ hash value = 72
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 152
++ hash value = 941
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 542
++ hash value = 974
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 837
++ hash value = 294
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 739
++ hash value = 727
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 619
++ hash value = 563
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 125
++ hash value = 254
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 839
++ hash value = 530
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 128
++ hash value = 108
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 115
++ hash value = 73
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 765
++ hash value = 796
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 802
++ hash value = 663
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 442
++ hash value = 171
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 257
++ hash value = 834
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 208
++ hash value = 551
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 887
++ hash value = 196
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 347
++ hash value = 457
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 339
++ hash value = 513
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 494
++ hash value = 308
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 838
++ hash value = 912
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 843
++ hash value = 2
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 924
++ hash value = 63
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 380
++ hash value = 852
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 798
++ hash value = 191
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 450
++ hash value = 115
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 277
++ hash value = 195
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 499
++ hash value = 398
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 197
++ hash value = 752
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 135
++ hash value = 434
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 454
++ hash value = 587
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 708
++ hash value = 568
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 546
++ hash value = 446
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 202
++ hash value = 842
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 881
++ hash value = 487
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 463
++ hash value = 149
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 725
++ hash value = 74
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 346
++ hash value = 839
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 984
++ hash value = 145
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 954
++ hash value = 604
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 770
++ hash value = 886
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 597
++ hash value = 966
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 130
++ hash value = 344
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 180
++ hash value = 246
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 55
++ hash value = 991
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 349
++ hash value = 693
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 503
++ hash value = 871
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 760
++ hash value = 705
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 553
++ hash value = 772
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 513
++ hash value = 51
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 430
++ hash value = 754
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 852
++ hash value = 564
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 423
++ hash value = 428
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 359
++ hash value = 874
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 764
++ hash value = 177
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 134
++ hash value = 816
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 203
++ hash value = 460
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 956
++ hash value = 840
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 460
++ hash value = 295
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 170
++ hash value = 65
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 219
++ hash value = 349
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 418
++ hash value = 338
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 395
++ hash value = 123
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 453
++ hash value = 969
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 140
++ hash value = 524
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 23
++ hash value = 214
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 734
++ hash value = 636
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 558
++ hash value = 862
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 585
++ hash value = 549
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 705
++ hash value = 713
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 480
++ hash value = 656
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 443
++ hash value = 789
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 989
++ hash value = 235
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 670
++ hash value = 82
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 913
++ hash value = 265
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 923
++ hash value = 445
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 419
++ hash value = 956
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 875
++ hash value = 779
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 204
++ hash value = 78
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 790
++ hash value = 246
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 898
++ hash value = 994
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 353
++ hash value = 165
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 988
++ hash value = 617
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 367
++ hash value = 818
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 73
++ hash value = 116
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 218
++ hash value = 731
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 818
++ hash value = 551
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 25
++ hash value = 450
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 678
++ hash value = 27
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 455
++ hash value = 205
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 674
++ hash value = 554
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 226
++ hash value = 675
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 806
++ hash value = 135
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 635
++ hash value = 451
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 537
++ hash value = 884
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 300
++ hash value = 410
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 811
++ hash value = 225
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 794
++ hash value = 718
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 96
++ hash value = 331
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 831
++ hash value = 586
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 545
++ hash value = 828
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 372
++ hash value = 908
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 85
++ hash value = 532
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 194
++ hash value = 898
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 156
++ hash value = 413
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 417
++ hash value = 720
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 458
++ hash value = 59
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 295
++ hash value = 320
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 252
++ hash value = 744
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 444
++ hash value = 407
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 340
++ hash value = 131
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 279
++ hash value = 431
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 363
++ hash value = 346
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 572
++ hash value = 515
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 612
++ hash value = 236
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 624
++ hash value = 653
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 772
++ hash value = 122
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 496
++ hash value = 544
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 224
++ hash value = 439
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 982
++ hash value = 909
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 62
++ hash value = 318
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 981
++ hash value = 291
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 407
++ hash value = 539
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 310
++ hash value = 590
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 375
++ hash value = 762
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 307
++ hash value = 736
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 411
++ hash value = 11
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 866
++ hash value = 217
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 421
++ hash value = 192
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 638
++ hash value = 305
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 466
++ hash value = 3
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 187
++ hash value = 572
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 571
++ hash value = 897
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 368
++ hash value = 436
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 88
++ hash value = 386
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 3
++ hash value = 854
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 101
++ hash value = 421
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 706
++ hash value = 331
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 221
++ hash value = 585
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 738
++ hash value = 109
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 863
++ hash value = 363
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 832
++ hash value = 204
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 979
++ hash value = 55
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 161
++ hash value = 503
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 549
++ hash value = 300
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 883
++ hash value = 724
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 345
++ hash value = 221
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 960
++ hash value = 312
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 972
++ hash value = 729
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 744
++ hash value = 817
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 509
++ hash value = 579
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 190
++ hash value = 426
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 554
++ hash value = 390
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 245
++ hash value = 418
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 861
++ hash value = 127
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 53
++ hash value = 755
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 724
++ hash value = 456
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 735
++ hash value = 254
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 656
++ hash value = 430
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 48
++ hash value = 665
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 762
++ hash value = 941
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 75
++ hash value = 352
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 412
++ hash value = 630
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 997
++ hash value = 179
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 119
++ hash value = 546
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 613
++ hash value = 854
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 882
++ hash value = 105
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 43
++ hash value = 575
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 776
++ hash value = 594
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 29
++ hash value = 922
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 317
++ hash value = 916
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 741
++ hash value = 963
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 766
++ hash value = 414
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 308
++ hash value = 354
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 148
++ hash value = 469
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 185
++ hash value = 336
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 143
++ hash value = 378
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 122
++ hash value = 400
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 334
++ hash value = 423
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 361
++ hash value = 110
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 168
++ hash value = 829
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 485
++ hash value = 746
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 253
++ hash value = 362
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 383
++ hash value = 707
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 35
++ hash value = 631
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 438
++ hash value = 698
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 124
++ hash value = 636
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 325
++ hash value = 861
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 495
++ hash value = 926
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 825
++ hash value = 878
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 331
++ hash value = 569
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 827
++ hash value = 114
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 643
++ hash value = 395
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 474
++ hash value = 948
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 649
++ hash value = 104
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 350
++ hash value = 311
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 736
++ hash value = 873
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 821
++ hash value = 405
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 535
++ hash value = 648
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 5
++ hash value = 90
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 457
++ hash value = 441
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 195
++ hash value = 516
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 774
++ hash value = 358
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 943
++ hash value = 806
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 333
++ hash value = 805
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 237
++ hash value = 474
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 657
++ hash value = 48
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 695
++ hash value = 533
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 647
++ hash value = 867
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 201
++ hash value = 224
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 992
++ hash value = 89
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 593
++ hash value = 494
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 778
++ hash value = 830
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 136
++ hash value = 52
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 431
++ hash value = 372
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 354
++ hash value = 784
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 52
++ hash value = 137
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 11
++ hash value = 798
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 611
++ hash value = 618
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 720
++ hash value = 984
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 937
++ hash value = 97
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 567
++ hash value = 425
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 451
++ hash value = 733
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 323
++ hash value = 624
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 531
++ hash value = 176
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 599
++ hash value = 202
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 188
++ hash value = 190
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 163
++ hash value = 739
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 809
++ hash value = 989
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 151
++ hash value = 323
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 100
++ hash value = 803
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 842
++ hash value = 384
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 400
++ hash value = 213
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 357
++ hash value = 638
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 939
++ hash value = 333
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 284
++ hash value = 521
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 858
++ hash value = 273
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 464
++ hash value = 767
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 326
++ hash value = 479
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 303
++ hash value = 264
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 69
++ hash value = 644
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 462
++ hash value = 531
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 304
++ hash value = 882
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 746
++ hash value = 53
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 311
++ hash value = 208
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 16
++ hash value = 888
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 469
++ hash value = 857
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 211
++ hash value = 405
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 530
++ hash value = 558
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 991
++ hash value = 471
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 711
++ hash value = 422
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 884
++ hash value = 342
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 72
++ hash value = 498
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 280
++ hash value = 49
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 810
++ hash value = 607
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 803
++ hash value = 281
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 294
++ hash value = 701
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 364
++ hash value = 964
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 179
++ hash value = 628
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 687
++ hash value = 589
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 106
++ hash value = 511
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 908
++ hash value = 174
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 640
++ hash value = 541
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 591
++ hash value = 258
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 636
++ hash value = 69
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 56
++ hash value = 609
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 847
++ hash value = 474
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 541
++ hash value = 356
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 753
++ hash value = 379
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 815
++ hash value = 697
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 41
++ hash value = 339
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 519
++ hash value = 759
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 749
++ hash value = 907
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 901
++ hash value = 848
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 263
++ hash value = 542
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 426
++ hash value = 282
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 941
++ hash value = 569
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 192
++ hash value = 662
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 933
++ hash value = 625
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 947
++ hash value = 278
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 581
++ hash value = 77
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 365
++ hash value = 582
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 681
++ hash value = 881
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 82
++ hash value = 678
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 137
++ hash value = 670
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 344
++ hash value = 603
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 906
++ hash value = 938
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 573
++ hash value = 133
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 921
++ hash value = 209
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 667
++ hash value = 228
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 786
++ hash value = 774
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 673
++ hash value = 936
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 621
++ hash value = 799
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 244
++ hash value = 800
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 184
++ hash value = 718
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 298
++ hash value = 174
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 18
++ hash value = 124
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 606
++ hash value = 528
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 14
++ hash value = 652
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 853
++ hash value = 182
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 484
++ hash value = 128
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 207
++ hash value = 933
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 878
++ hash value = 633
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 436
++ hash value = 462
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 70
++ hash value = 262
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 641
++ hash value = 159
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 388
++ hash value = 797
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 587
++ hash value = 785
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 39
++ hash value = 103
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 265
++ hash value = 779
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 324
++ hash value = 243
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 291
++ hash value = 847
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 616
++ hash value = 708
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 592
++ hash value = 876
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 761
++ hash value = 323
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 658
++ hash value = 666
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 240
++ hash value = 328
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 267
++ hash value = 15
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 665
++ hash value = 992
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 550
++ hash value = 918
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 274
++ hash value = 341
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 214
++ hash value = 259
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 465
++ hash value = 385
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 529
++ hash value = 939
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 893
++ hash value = 904
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 373
++ hash value = 526
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 511
++ hash value = 815
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 935
++ hash value = 861
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 49
++ hash value = 283
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 870
++ hash value = 689
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 164
++ hash value = 357
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 93
++ hash value = 477
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 618
++ hash value = 945
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 118
++ hash value = 928
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 116
++ hash value = 691
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 733
++ hash value = 18
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 527
++ hash value = 703
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 420
++ hash value = 574
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 998
++ hash value = 797
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 910
++ hash value = 410
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 155
++ hash value = 795
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 609
++ hash value = 382
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 379
++ hash value = 234
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 871
++ hash value = 307
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 961
++ hash value = 930
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 54
++ hash value = 373
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 84
++ hash value = 914
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 752
++ hash value = 761
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 683
++ hash value = 117
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 362
++ hash value = 728
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 159
++ hash value = 267
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 569
++ hash value = 661
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 700
++ hash value = 623
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 715
++ hash value = 894
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 10
++ hash value = 180
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 330
++ hash value = 951
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 555
++ hash value = 8
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 228
++ hash value = 911
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 157
++ hash value = 31
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 946
++ hash value = 660
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 662
++ hash value = 138
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 8
++ hash value = 944
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 996
++ hash value = 561
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 64
++ hash value = 554
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 51
++ hash value = 519
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 149
++ hash value = 87
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 154
++ hash value = 177
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 650
++ hash value = 722
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 814
++ hash value = 79
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 209
++ hash value = 169
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 659
++ hash value = 284
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 31
++ hash value = 159
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 234
++ hash value = 619
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 160
++ hash value = 885
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 999
++ hash value = 415
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 173
++ hash value = 919
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 57
++ hash value = 227
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 538
++ hash value = 502
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 212
++ hash value = 23
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 205
++ hash value = 696
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 198
++ hash value = 370
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 666
++ hash value = 610
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 434
++ hash value = 226
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 886
++ hash value = 578
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 819
++ hash value = 169
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 914
++ hash value = 883
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 193
++ hash value = 280
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 929
++ hash value = 153
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 78
++ hash value = 206
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 80
++ hash value = 442
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 26
++ hash value = 68
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 836
++ hash value = 676
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 575
++ hash value = 369
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 909
++ hash value = 792
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 403
++ hash value = 67
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 512
++ hash value = 433
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 352
++ hash value = 547
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 429
++ hash value = 136
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 387
++ hash value = 179
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 250
++ hash value = 508
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 799
++ hash value = 809
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 243
++ hash value = 182
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 927
++ hash value = 917
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 296
++ hash value = 938
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 182
++ hash value = 482
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 967
++ hash value = 638
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 730
++ hash value = 164
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 131
++ hash value = 962
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 822
++ hash value = 23
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 175
++ hash value = 155
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 614
++ hash value = 472
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 617
++ hash value = 326
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 416
++ hash value = 102
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 829
++ hash value = 350
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 648
++ hash value = 486
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 176
++ hash value = 773
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 860
++ hash value = 509
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 479
++ hash value = 38
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 147
++ hash value = 850
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 919
++ hash value = 973
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 231
++ hash value = 765
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 750
++ hash value = 525
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 897
++ hash value = 376
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 628
++ hash value = 125
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 301
++ hash value = 28
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 556
++ hash value = 626
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 865
++ hash value = 599
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 566
++ hash value = 807
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 396
++ hash value = 741
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 258
++ hash value = 452
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 475
++ hash value = 566
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 679
++ hash value = 645
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 321
++ hash value = 388
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 817
++ hash value = 933
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 320
++ hash value = 770
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 987
++ hash value = 999
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 99
++ hash value = 185
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 341
++ hash value = 749
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 481
++ hash value = 274
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 117
++ hash value = 309
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 610
++ hash value = 0
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 456
++ hash value = 823
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 845
++ hash value = 238
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 505
++ hash value = 107
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 285
++ hash value = 139
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 270
++ hash value = 869
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 502
++ hash value = 253
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 266
++ hash value = 397
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 955
++ hash value = 222
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 953
++ hash value = 986
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 601
++ hash value = 438
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 289
++ hash value = 611
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 523
++ hash value = 231
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 627
++ hash value = 507
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 743
++ hash value = 199
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 552
++ hash value = 154
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 22
++ hash value = 596
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 759
++ hash value = 87
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 410
++ hash value = 393
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 563
++ hash value = 953
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 261
++ hash value = 306
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 693
++ hash value = 297
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 382
++ hash value = 88
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 235
++ hash value = 237
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 378
++ hash value = 616
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 386
++ hash value = 561
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 127
++ hash value = 490
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 900
++ hash value = 230
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 773
++ hash value = 740
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 755
++ hash value = 615
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 704
++ hash value = 95
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 694
++ hash value = 915
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 199
++ hash value = 988
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 629
++ hash value = 743
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 248
++ hash value = 272
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 896
++ hash value = 758
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 600
++ hash value = 820
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 441
++ hash value = 552
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 748
++ hash value = 289
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 109
++ hash value = 365
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 428
++ hash value = 518
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 271
++ hash value = 487
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 405
++ hash value = 303
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 92
++ hash value = 859
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 259
++ hash value = 70
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 200
++ hash value = 606
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 713
++ hash value = 658
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 213
++ hash value = 641
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 17
++ hash value = 506
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 498
++ hash value = 780
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 740
++ hash value = 345
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 366
++ hash value = 200
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 9
++ hash value = 562
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 256
++ hash value = 216
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 584
++ hash value = 931
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 864
++ hash value = 981
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 732
++ hash value = 400
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 33
++ hash value = 395
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 129
++ hash value = 726
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 986
++ hash value = 381
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 507
++ hash value = 343
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 483
++ hash value = 510
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 95
++ hash value = 713
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 589
++ hash value = 22
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 268
++ hash value = 633
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 602
++ hash value = 56
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 459
++ hash value = 677
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 302
++ hash value = 646
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 424
++ hash value = 46
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 677
++ hash value = 409
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 229
++ hash value = 529
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 974
++ hash value = 965
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 709
++ hash value = 186
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 42
++ hash value = 957
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 0
++ hash value = 0
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 686
++ hash value = 971
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 697
++ hash value = 769
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 564
++ hash value = 571
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 703
++ hash value = 477
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 880
++ hash value = 869
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 181
++ hash value = 864
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 820
++ hash value = 787
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 758
++ hash value = 469
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 630
++ hash value = 361
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 370
++ hash value = 672
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 111
++ hash value = 601
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 215
++ hash value = 877
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 313
++ hash value = 444
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 642
++ hash value = 777
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 603
++ hash value = 674
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 239
++ hash value = 710
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 890
++ hash value = 50
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 873
++ hash value = 543
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 290
++ hash value = 229
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 415
++ hash value = 484
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 857
++ hash value = 655
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 983
++ hash value = 527
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 79
++ hash value = 824
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 15
++ hash value = 270
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 634
++ hash value = 833
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 536
++ hash value = 266
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 795
++ hash value = 337
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 510
++ hash value = 197
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 742
++ hash value = 581
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 877
++ hash value = 15
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 969
++ hash value = 874
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 596
++ hash value = 348
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 440
++ hash value = 934
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 501
++ hash value = 635
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 675
++ hash value = 172
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 112
++ hash value = 219
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 47
++ hash value = 47
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 963
++ hash value = 166
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 580
++ hash value = 459
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 586
++ hash value = 167
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 83
++ hash value = 296
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 957
++ hash value = 458
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 467
++ hash value = 621
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 520
++ hash value = 377
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 712
++ hash value = 40
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 94
++ hash value = 95
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 113
++ hash value = 837
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 780
++ hash value = 66
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 707
++ hash value = 950
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 439
++ hash value = 316
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 710
++ hash value = 804
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 186
++ hash value = 954
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 685
++ hash value = 353
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 470
++ hash value = 475
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 482
++ hash value = 892
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 965
++ hash value = 402
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 393
++ hash value = 887
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 468
++ hash value = 239
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 174
++ hash value = 537
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 968
++ hash value = 256
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 663
++ hash value = 756
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 508
++ hash value = 961
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 669
++ hash value = 464
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 433
++ hash value = 608
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 632
++ hash value = 597
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 813
++ hash value = 461
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 993
++ hash value = 707
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 840
++ hash value = 148
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 518
++ hash value = 141
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 769
++ hash value = 268
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 737
++ hash value = 491
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 314
++ hash value = 62
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 146
++ hash value = 232
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 962
++ hash value = 548
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 682
++ hash value = 499
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 335
++ hash value = 41
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 844
++ hash value = 620
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 65
++ hash value = 172
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 938
++ hash value = 715
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 132
++ hash value = 580
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 949
++ hash value = 514
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 608
++ hash value = 764
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 76
++ hash value = 970
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 183
++ hash value = 100
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 551
++ hash value = 536
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 488
++ hash value = 600
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 728
++ hash value = 928
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 719
++ hash value = 366
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 318
++ hash value = 534
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 958
++ hash value = 76
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 771
++ hash value = 504
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 639
++ hash value = 923
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 189
++ hash value = 808
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 384
++ hash value = 325
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 269
++ hash value = 251
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 105
++ hash value = 893
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 654
++ hash value = 194
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 369
++ hash value = 54
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 63
++ hash value = 936
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 489
++ hash value = 218
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 756
++ hash value = 233
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 598
++ hash value = 584
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 272
++ hash value = 105
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 698
++ hash value = 387
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 964
++ hash value = 784
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 539
++ hash value = 120
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 133
++ hash value = 198
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 862
++ hash value = 745
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 20
++ hash value = 360
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 607
++ hash value = 146
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 196
++ hash value = 134
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 516
++ hash value = 905
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 87
++ hash value = 768
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 595
++ hash value = 730
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 655
++ hash value = 812
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 936
++ hash value = 479
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 532
++ hash value = 794
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 232
++ hash value = 383
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 977
++ hash value = 819
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 437
++ hash value = 80
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 435
++ hash value = 844
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 892
++ hash value = 286
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 422
++ hash value = 810
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 394
++ hash value = 505
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 540
++ hash value = 738
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 721
++ hash value = 602
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 789
++ hash value = 628
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 506
++ hash value = 725
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 891
++ hash value = 668
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 37
++ hash value = 867
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 98
++ hash value = 567
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 775
++ hash value = 976
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 377
++ hash value = 998
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 90
++ hash value = 623
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 445
++ hash value = 25
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 374
++ hash value = 144
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 699
++ hash value = 5
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 389
++ hash value = 415
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 233
++ hash value = 1
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 260
++ hash value = 688
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 952
++ hash value = 368
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 690
++ hash value = 443
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 850
++ hash value = 328
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 376
++ hash value = 380
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 67
++ hash value = 408
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 859
++ hash value = 891
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 787
++ hash value = 392
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 472
++ hash value = 712
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 473
++ hash value = 330
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 222
++ hash value = 203
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 401
++ hash value = 831
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 293
++ hash value = 83
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 102
++ hash value = 39
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 40
++ hash value = 721
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 888
++ hash value = 814
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 980
++ hash value = 673
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 723
++ hash value = 838
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 645
++ hash value = 631
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 108
++ hash value = 747
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 804
++ hash value = 899
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 251
++ hash value = 126
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 297
++ hash value = 556
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 427
++ hash value = 900
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 110
++ hash value = 983
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 247
++ hash value = 654
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 309
++ hash value = 972
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 785
++ hash value = 156
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 637
++ hash value = 687
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 292
++ hash value = 465
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 299
++ hash value = 792
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 644
++ hash value = 13
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 273
++ hash value = 723
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 264
++ hash value = 160
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 944
++ hash value = 424
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 876
++ hash value = 397
++ xung dot = [co] 
+[insert ] – thanh cong
++ key = 995
++ hash value = 943
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 71
++ hash value = 880
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 604
++ hash value = 292
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 246
++ hash value = 36
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 254
++ hash value = 980
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 548
++ hash value = 682
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 360
++ hash value = 492
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 830
++ hash value = 968
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 869
++ hash value = 71
+xung dot = [khong] 
+[insert ] – thanh cong
++ key = 392
++ hash value = 269
+xung dot = [khong] 
+[search ] - tim thay
++ key = 975
++ hash value = 583
+xung dot = [khong] 
+[search ] - tim thay
++ key = 169
++ hash value = 447
+xung dot = [khong] 
+[search ] - tim thay
++ key = 661
++ hash value = 520
+xung dot = [khong] 
+[search ] - tim thay
++ key = 316
++ hash value = 298
+xung dot = [khong] 
+[search ] - tim thay
++ key = 528
++ hash value = 321
+xung dot = [khong] 
+[search ] - tim thay
++ key = 701
++ hash value = 241
+xung dot = [khong] 
+[search ] - tim thay
++ key = 348
++ hash value = 75
+xung dot = [khong] 
+[search ] - tim thay
++ key = 915
++ hash value = 501
+xung dot = [khong] 
+[search ] - tim thay
++ key = 6
++ hash value = 708
+xung dot = [co] 
+[search ] - tim thay
++ key = 594
++ hash value = 112
+xung dot = [khong] 
+[search ] - tim thay
++ key = 788
++ hash value = 10
+xung dot = [khong] 
+[search ] - tim thay
++ key = 255
++ hash value = 598
+xung dot = [khong] 
+[search ] - tim thay
++ key = 74
++ hash value = 734
+xung dot = [khong] 
+[search ] - tim thay
++ key = 574
++ hash value = 751
+xung dot = [khong] 
+[search ] - tim thay
++ key = 329
++ hash value = 333
+xung dot = [co] 
+[search ] - tim thay
++ key = 561
++ hash value = 717
+xung dot = [khong] 
+[search ] - tim thay
++ key = 726
++ hash value = 692
+xung dot = [khong] 
+[search ] - tim thay
++ key = 872
++ hash value = 925
+xung dot = [khong] 
+[search ] - tim thay
++ key = 515
++ hash value = 287
+xung dot = [khong] 
+[search ] - tim thay
++ key = 959
++ hash value = 694
+xung dot = [khong] 
+[destructor] – huy bo thanh cong
++ so phan tu xung dot da delete = 144
++ da delete bang T 

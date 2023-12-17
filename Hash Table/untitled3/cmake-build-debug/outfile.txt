@@ -1,0 +1,62 @@
+[constructor] - khoi tao thanh cong
++ m = 100
++ output file = outfile.txt
+[insert 1] – thanh cong
++ key = 5
++ hash value = 9
+xung dot = [khong] 
+[insert 2] – thanh cong
++ key = 10
++ hash value = 18
+xung dot = [khong] 
+[insert 3] – thanh cong
++ key = 3
++ hash value = 85
+xung dot = [khong] 
+[insert 4] – thanh cong
++ key = 45
++ hash value = 81
+xung dot = [khong] 
+[insert 5] – thanh cong
++ key = 67
++ hash value = 40
+xung dot = [khong] 
+[insert 6] – thanh cong
++ key = 89
++ hash value = 0
+xung dot = [khong] 
+[insert 7] – thanh cong
++ key = 91
++ hash value = 24
+xung dot = [khong] 
+[insert 8] – thanh cong
++ key = 12
++ hash value = 41
+xung dot = [khong] 
+[insert 9] – thanh cong
++ key = 31
++ hash value = 15
+xung dot = [khong] 
+[search 1] - tim thay
++ key = 45
++ hash value = 81
+xung dot = [khong] 
+[search 2] - tim thay
++ key = 5
++ hash value = 9
+xung dot = [khong] 
+[search 3] - khong tim thay
++ key = 36
++ hash value = 24
+xung dot = [khong] 
+[search 4] - khong tim thay
++ key = 19
++ hash value = 74
+xung dot = [khong] 
+[search 5] - tim thay
++ key = 91
++ hash value = 24
+xung dot = [khong] 
+[destructor] – huy bo thanh cong
++ so phan tu xung dot da delete = 0
++ da delete bang T 
