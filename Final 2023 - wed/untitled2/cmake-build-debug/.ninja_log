@@ -1,0 +1,23 @@
+# ninja log v5
+2	526	7259614163338153	CMakeFiles/untitled2.dir/main.cpp.obj	b3aea38ba12ddba
+3	399	7259616885157880	CMakeFiles/untitled2.dir/bai2.cpp.obj	f0cfadffe570ab67
+518	605	7259636256387307	untitled2.exe	32c03857bab25b38
+3	517	7259636255543321	CMakeFiles/untitled2.dir/bai3.cpp.obj	83d48cbac641095e
+1	154	7259656414915619	build.ninja	d2db531f8c1356c7
+3	462	7259656183473692	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+0	123	7259656414915619	build.ninja	d2db531f8c1356c7
+3	76	7259656416171664	untitled2.exe	55f8eadd62bb4285
+2	474	7259658224307424	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+474	550	7259658225050346	untitled2.exe	55f8eadd62bb4285
+3	439	7259658647640638	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+439	515	7259658648359880	untitled2.exe	55f8eadd62bb4285
+2	548	7259687664919619	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+548	655	7259687665972727	untitled2.exe	55f8eadd62bb4285
+3	641	7259763420449958	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+642	858	7259763422595164	untitled2.exe	55f8eadd62bb4285
+2	558	7259763628513254	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+559	657	7259763629478992	untitled2.exe	55f8eadd62bb4285
+3	596	7259765162108169	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+596	700	7259765163117145	untitled2.exe	55f8eadd62bb4285
+3	556	7259766981887781	CMakeFiles/untitled2.dir/bai4.cpp.obj	afba5a384d95a2fd
+557	655	7259766982855007	untitled2.exe	55f8eadd62bb4285
